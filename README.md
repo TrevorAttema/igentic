@@ -19,8 +19,6 @@ The full argument is in the thesis. The specifications say how to write a Work P
 - **igentic-register-spec.md** is the two registers: the same elements written in formal notation or in plain prose, with the conventions of the prose register.
 - **igentic-7-step-method.md** is the human method: a reduced, seven-part form of the grammar for prompting generative AI tools by hand, in real time.
 - **examples/** holds one worked example for each specification: an incident-intake agent in the formal register, a complaint reviewer shown in both registers, and a 7-step prompting walkthrough for checking a contract.
-- **archive/** holds superseded drafts, backups, and working material, kept for reference.
-- **anthropic-economic-research-writing-style.md** is the writing-style guide the thesis and specs are written to.
 
 ## Where to start
 
